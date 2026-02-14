@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="contenedor">
-    <h1>Para mi llanerita hermosa 💖</h1>
+    <h1>Para mi llanerita hermosa <$💖</h1>
     <canvas id="arbol"></canvas>
     <p id="contador"></p>
     <audio id="musica" autoplay loop>
@@ -19,3 +19,4 @@
 </body>
 
 </html>
+
